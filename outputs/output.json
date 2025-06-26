@@ -1,0 +1,25 @@
+{
+  "Patient Name": "NIKETA",
+  "Age": 34,
+  "Gender": "Female",
+  "Tests": [
+    {
+      "Test Name": "T3",
+      "Result": "98",
+      "Unit": "ng/dL",
+      "Reference Range": "60-181"
+    },
+    {
+      "Test Name": "T4",
+      "Result": "6.20",
+      "Unit": "ug/dL",
+      "Reference Range": "4.50-10.90"
+    },
+    {
+      "Test Name": "TSH 3RD GENERATION",
+      "Result": "8.995",
+      "Unit": "pIU/mL",
+      "Reference Range": "0.550-4.780"
+    }
+  ]
+}

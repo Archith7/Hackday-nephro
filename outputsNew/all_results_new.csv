@@ -1,0 +1,340 @@
+Image Filename,Patient Name,Age,Gender,Test Name,Result,Unit,Reference Range
+1.png,NIKETA,34,Female,T3,98.7,ng/dL,60-181
+1.png,NIKETA,34,Female,T4,6.20,g/dL,4.50- 10.90
+1.png,NIKETA,34,Female,TSH 3RD GENERATION,8.995,IU/mL,0.550-4.780
+10.png,Ms.Renuka Kelkar,37,Female,Haemoglobin,11.4,g/dL,12.5 - 16.0
+10.png,Ms.Renuka Kelkar,37,Female,Packed Cell Volume(PCV)/Haematocrit,35.0,%,37 - 47
+10.png,Ms.Renuka Kelkar,37,Female,RBC Count,4.64,mill/cu.mm,4.2 - 5.4
+10.png,Ms.Renuka Kelkar,37,Female,Mean Corpuscular Volume(MCV),75.4,fL,78 - 100
+10.png,Ms.Renuka Kelkar,37,Female,Mean Corpuscular Haemoglobin(MCH),24.5,pg,27 - 32
+10.png,Ms.Renuka Kelkar,37,Female,Mean Corpuscular Haemoglobinconcentration(MCHC),32.5,g/dL,32 - 36
+10.png,Ms.Renuka Kelkar,37,Female,RDW-CV,14.1,%,11.5 - 16.0
+10.png,Ms.Renuka Kelkar,37,Female,RDW-SD,38.1,fL,39 - 46
+10.png,Ms.Renuka Kelkar,37,Female,Total Leukocyte Count (TC),6900,cells/cu.mm,4000 - 11000
+10.png,Ms.Renuka Kelkar,37,Female,Neutrophils,67.4,%,40 - 75
+10.png,Ms.Renuka Kelkar,37,Female,Lymphocytes,24.2,%,20 - 45
+10.png,Ms.Renuka Kelkar,37,Female,Eosinophils,1.2,%,90 - 10
+10.png,Ms.Renuka Kelkar,37,Female,Monocytes,6.8,%,01 - 10
+11.png,Sashikanta Nayak,36,M,HbA1c,7.2,%,"Below 5.7% : Normal
+Below 6.5% : Good Control
+5.7% - 6.4% : Prediabetic
+6.5% - 7% : Fair Control.
+>=6.5% : Diabetic
+7.0% - 8% : Unsatisfactory Control
+>8% : Poor Control"
+11.png,Sashikanta Nayak,36,M,AVERAGE BLOOD GLUCOSE (ABG),160,mg/dl,"90 - 120 mg/dl : Good Control
+121 - 150 mg/dl : Fair Control.
+151 - 180 mg/dl : Unsatisfactory Control
+> 180 mg/dl : Poor Control"
+12.png,GHULAM BATOOL,70,Female,Physical Examination,Reddish,,
+12.png,GHULAM BATOOL,70,Female,Specific Gravity,1.010,,
+12.png,GHULAM BATOOL,70,Female,Turbidity,Present,,
+12.png,GHULAM BATOOL,70,Female,Deposit,Present,,
+12.png,GHULAM BATOOL,70,Female,pH,8.0,,
+12.png,GHULAM BATOOL,70,Female,Sugar,Nil,,
+12.png,GHULAM BATOOL,70,Female,Ketones,++,,
+12.png,GHULAM BATOOL,70,Female,Proteins,+++,,
+12.png,GHULAM BATOOL,70,Female,Blood,+++,,
+12.png,GHULAM BATOOL,70,Female,Urobilinogen,Normal,,
+12.png,GHULAM BATOOL,70,Female,Bilirubin,I!N,,
+12.png,GHULAM BATOOL,70,Female,Pus Cells,18-20,,
+12.png,GHULAM BATOOL,70,Female,Epithelial Cells,12-14,,
+12.png,GHULAM BATOOL,70,Female,Red Blood Cells,32-34,,
+12.png,GHULAM BATOOL,70,Female,Casts/HPF,Nil,,
+12.png,GHULAM BATOOL,70,Female,Crystals,Nil,,
+12.png,GHULAM BATOOL,70,Female,Crystals,I!N,,
+12.png,GHULAM BATOOL,70,Female,Amorphous,Nil,,
+12.png,GHULAM BATOOL,70,Female,Organisms,I!N,,
+13.png,Mrs.GOMATHI,43,F,"GLUCOSE,RANDOMSODIUM FLUORIDE",105,mg/dL,70-140
+13.png,Mrs.GOMATHI,43,F,"UREA,SERUM",22.80,mg/dL,15-36
+13.png,Mrs.GOMATHI,43,F,"REATININE,SERUM",0.80,mg/dL,0.5-1.04
+14.png,Johnatan Doe,30,Male,White Blood Cell Count,7.2,x10^9/L,4 - 11
+14.png,Johnatan Doe,30,Male,Red Blood Cell Count,14.5,x10^12/L,4.2 - 5.9
+14.png,Johnatan Doe,30,Male,Hemoglobin,13.5,7p/,13.2 - 16.6
+14.png,Johnatan Doe,30,Male,Hematocrit,40.1,%,38.3 - 48.6
+14.png,Johnatan Doe,30,Male,Platelet Count,250,x10^9/L,150 - 450
+14.png,Johnatan Doe,30,Male,Glucose,90,mg/dL,70 - 99
+14.png,Johnatan Doe,30,Male,Creatinine,0.9,mg/dL,0.6 - 1.2
+14.png,Johnatan Doe,30,Male,Urea,29,mg/dL,15-50
+14.png,Johnatan Doe,30,Male,Cholesterol,185,mg/dL,0 - 200
+14.png,Johnatan Doe,30,Male,Alanine Aminotransferase (ALT),25,U/L,7 - 56
+14.png,Johnatan Doe,30,Male,Aspartate Aminotransferase (AST),30,U/L,8-48
+14.png,Johnatan Doe,30,Male,Alkaline Phosphatase (ALP),70,U/L,40 - 129
+14.png,Johnatan Doe,30,Male,Bilirubin,1.2,mg/dL,0.3 - 1.9
+14.png,Johnatan Doe,30,Male,Albumin,4.5,g/dL,3.5 - 5.5
+14.png,Johnatan Doe,30,Male,Thyroid Stimulating Hormone,2.1,IU/mL,0.5 - 4.5
+14.png,Johnatan Doe,30,Male,Free Thyroxine (FT4),1.2,1p/8u,0.9 - 1.7
+15.png,Mrs. KAVITA,41,Female,"T3, Total",1.00,ng/mL,0.80 - 2.00
+15.png,Mrs. KAVITA,41,Female,"T4,Total",5.87,7p/6n,5.10 - 14.10
+15.png,Mrs. KAVITA,41,Female,TSH,0.96,uIU/mL,0.27 - 4.20
+16.png,MR SUALEH ANSARI,56,Male,Hemoglobin,13.7,g/dl,"Male:13.0-17.0
+Female:11.5-15.4"
+16.png,MR SUALEH ANSARI,56,Male,Hematocrit,43.9,Vol %,"Male:40-50
+Female: 35 - 47"
+16.png,MR SUALEH ANSARI,56,Male,RBC,4.9,x10^12/1,"Male:
+4.5-5.5
+Female:
+3.8-5.2"
+16.png,MR SUALEH ANSARI,56,Male,MCV,88.2,fl,76-100
+16.png,MR SUALEH ANSARI,56,Male,MCH,27.5,bd,27-32
+16.png,MR SUALEH ANSARI,56,Male,MCHC,31.2,g/dl,31-34
+16.png,MR SUALEH ANSARI,56,Male,WBC,12.9,1/1v00X,4.0-11.0
+16.png,MR SUALEH ANSARI,56,Male,Neutrophils,85,%,40-80
+16.png,MR SUALEH ANSARI,56,Male,Lymphocytes,11,%,20-40
+16.png,MR SUALEH ANSARI,56,Male,Eosinophils,02,%,1-6
+16.png,MR SUALEH ANSARI,56,Male,Monocytes,02,%,02-10
+16.png,MR SUALEH ANSARI,56,Male,Platelet Count,360,1/1v00X,150-450
+17.png,Shreya Paul,21,Male,Hemoglobin (Hb),12.5,g/dL,13.0 - 17.0
+17.png,Shreya Paul,21,Male,Total RBC count,5.2,mill/cumm,4.5 - 5.5
+17.png,Shreya Paul,21,Male,Packed Cell Volume (PCV),57.5,%,40-50
+17.png,Shreya Paul,21,Male,Mean Corpuscular Volume (MCV),87.75,fL,83-101
+17.png,Shreya Paul,21,Male,MCH,27.2,pg,27-32
+17.png,Shreya Paul,21,Male,MCHC,32.8,g/dL,32.5 - 34.5
+17.png,Shreya Paul,21,Male,RDW,13.6,%,11.6 - 14.0
+17.png,Shreya Paul,21,Male,Total WBC count,9000,cumm,4000-11000
+17.png,Shreya Paul,21,Male,Neutrophils,60,%,50-62
+17.png,Shreya Paul,21,Male,Lymphocytes,31,%,20-40
+17.png,Shreya Paul,21,Male,Eosinophils,1,%,00- 06
+17.png,Shreya Paul,21,Male,Monocytes,7,%,00 -10
+17.png,Shreya Paul,21,Male,Basophils,1,%,00 - 02
+17.png,Shreya Paul,21,Male,Platelet Count,150000,cumm,150000 - 410000
+18.png,MR.TARKESHWAR,31,M,HAEMOGLOBIN,14.5,g/dl,14.0 - 18.0
+18.png,MR.TARKESHWAR,31,M,TOTAL LEUCOCYTE COUNT,6.5,X 1000/ul,4.0 - 11.0
+18.png,MR.TARKESHWAR,31,M,NEUTROPHIL COUNT,55.1,%,43.7 - 77.0
+18.png,MR.TARKESHWAR,31,M,LYMPHOCYTE COUNT,31.4,%,15.0-45.8
+18.png,MR.TARKESHWAR,31,M,"BASO,EOSINO,MONO MIXED %",13.5,%,1.3-25.9
+18.png,MR.TARKESHWAR,31,M,ABS.COUNT OF NEUTRO,3.6,1000/ul,1.6- 6.9
+18.png,MR.TARKESHWAR,31,M,ABS. COUNT OF LYMPHO,2.0,1000/ul,0.9- 2.8
+18.png,MR.TARKESHWAR,31,M,"ABS.COUNT OF BA,EO,MO MIXED",0.9,1000/ul,0.1 - 1.6
+18.png,MR.TARKESHWAR,31,M,RED BLOOD CELL,5.50,X 1000000/ul,3.8-5.5
+18.png,MR.TARKESHWAR,31,M,HEMATOCRIT VALUE,44.5,%,32.6 - 47.5
+18.png,MR.TARKESHWAR,31,M,MEAN RBC VOLUME,80.9,fl,78.6 - 102.2
+18.png,MR.TARKESHWAR,31,M,MEAN RBC HEMOGLOBIN,26.4,pg,26.0 - 34.4
+18.png,MR.TARKESHWAR,31,M,MEAN RBC HB CONC,32.6,%,31.8 -36.3
+18.png,MR.TARKESHWAR,31,M,PLATELET,215,X 1000/ul,140.0 - 440.0
+18.png,MR.TARKESHWAR,31,M,RDW,12.6,%,11.6- 14.6
+18.png,MR.TARKESHWAR,31,M,MP BY IF TECHNIQUE,NEGATIVE,,
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,RBC,5.17,10^6 /uL,4.5 - 5.5
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Haemoglobin,13.80,g/dL,13 - 17
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Hematocrit,41.50,%,40 - 50
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,MCV,80.30,fL,83 - 101
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,MCH,26.70,Pg,27 - 32
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,MCHC,33.30,g/dL,31.5 - 34.5
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Red Cell Distribution Width,12.20,%,11.6 - 14
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Total WBC Count,6.71,10^3/uL,4 - 10
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Neutrophils,53.10,%,40 - 80
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Lymphocytes,35.00,%,20 - 40
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Eosinophils,1.90,%,1 - 6
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Monocytes,9.40,%,2 - 10
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Basophils,0.60,%,0 - 2
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Platelet,265.00,10^3/uL,150 - 410
+19.png,Muhammed Shahid Kasimvilla Kasim,30,Male,Mean Platelet Volume,10.10,fL,7.6 - 10.8
+2.png,SHASHANK SHUKLA,46,M,HbA1c,5.5,%,"Below 5.7% : Normal
+Below 6.5% : Good Control
+5.7% - 6.4% : Prediabetic
+6.5% - 7% : Fair Control
+>=6.5% : Diabetic
+7.0% - 8% : Unsatisfactory Control
+>8% : Poor Control"
+2.png,SHASHANK SHUKLA,46,M,AVERAGE BLOOD GLUCOSE (ABG),111,mg/dl,"90 - 120 mg/dl : Good Control
+121 - 150 mg/dl : Fair Control
+151 - 180 mg/dl : Unsatisfactory Control.
+> 180 mg/dl : Poor Control"
+20.png,Mrs. SANCHIT JAIN,25,Male,COMPLETE BLOOD COUNT CBC,,,
+20.png,Mrs. SANCHIT JAIN,25,Male,ERYTHROCYTES,,,
+20.png,Mrs. SANCHIT JAIN,25,Male,TOTAL LEUCOCYTE COUNT,9700,/cu.mm,4000 - 11000
+20.png,Mrs. SANCHIT JAIN,25,Male,HB. (HAEMOGLOBIN),15.5,g/dL,11-16.5
+20.png,Mrs. SANCHIT JAIN,25,Male,RBC,4.9,/L,3.80-5.80
+20.png,Mrs. SANCHIT JAIN,25,Male,PCV,36.7,%,26-50
+20.png,Mrs. SANCHIT JAIN,25,Male,MCV,89.0,F1,80-97
+20.png,Mrs. SANCHIT JAIN,25,Male,MCH,29.8,Pg,26.5-33.5
+20.png,Mrs. SANCHIT JAIN,25,Male,MCHC,33.4,gm/dl,31.5-35.0
+20.png,Mrs. SANCHIT JAIN,25,Male,R.D.W,12.7,%,10.0-15.0
+20.png,Mrs. SANCHIT JAIN,25,Male,DIFFERENTIAL LEUCOCYTE COUNT,,,
+20.png,Mrs. SANCHIT JAIN,25,Male,NEUTROPHILS,63,%,45-75
+20.png,Mrs. SANCHIT JAIN,25,Male,LYMPHOCYTES,31,%,20-40
+20.png,Mrs. SANCHIT JAIN,25,Male,MONOCYTES,06,%,2-10
+20.png,Mrs. SANCHIT JAIN,25,Male,EOSINOPHILS,03,%,1-6
+20.png,Mrs. SANCHIT JAIN,25,Male,PLATELETS,,,
+20.png,Mrs. SANCHIT JAIN,25,Male,PLATELET COUNT,340,Lac/cu.mm,150-450
+20.png,Mrs. SANCHIT JAIN,25,Male,MPV,8.9,m3,6.5-11.0
+20.png,Mrs. SANCHIT JAIN,25,Male,PDW,14.7,%,10-18
+20.png,Mrs. SANCHIT JAIN,25,Male,ESR Automated,15,mm/hour,0-20
+20.png,Mrs. SANCHIT JAIN,25,Male,ERYTHROCYTE SEDIMENTATION RATE (ESR),,,
+21.png,Mr. Saubhik Bhaumik,27,M,HEMOGLOBIN,15,Ip/6,13 - 17
+21.png,Mr. Saubhik Bhaumik,27,M,TOTAL LEUKOCYTE COUNT,"5,100",cumm,"4,800 - 10,800"
+21.png,Mr. Saubhik Bhaumik,27,M,NEUTROPHILS,79,%,40 - 80
+21.png,Mr. Saubhik Bhaumik,27,M,LYMPHOCYTE,18,%,20 - 40
+21.png,Mr. Saubhik Bhaumik,27,M,EOSINOPHILS,1,%,1-6
+21.png,Mr. Saubhik Bhaumik,27,M,MONOCYTES,1,%,2 -10
+21.png,Mr. Saubhik Bhaumik,27,M,BASOPHILS,1,%,<2
+21.png,Mr. Saubhik Bhaumik,27,M,PLATELET COUNT,3.5,lakhs/cumm,1.5 - 4.1
+21.png,Mr. Saubhik Bhaumik,27,M,TOTAL RBC COUNT,5,million/cumm,4.5 - 5.5
+21.png,Mr. Saubhik Bhaumik,27,M,"HEMATOCRIT VALUE, HCT",42,%,40 - 50
+21.png,Mr. Saubhik Bhaumik,27,M,"MEAN CORPUSCULAR VOLUME, MCV",84.0,fL,83 - 101
+21.png,Mr. Saubhik Bhaumik,27,M,"MEAN CELL HAEMOGLOBIN, MCH",30.0,Pg,27 - 32
+21.png,Mr. Saubhik Bhaumik,27,M,"MEAN CELL HAEMOGLOBIN CON, MCHC",35.7,%,31.5 - 34.5
+22.png,MR. ATTAR KASAM GULAB,76,Male,Hemoglobin,11.7,gms/dl,13 - 16
+22.png,MR. ATTAR KASAM GULAB,76,Male,Erythrocyte(RBC) Count,4.52,mil./cmm,4.5 - 6.5
+22.png,MR. ATTAR KASAM GULAB,76,Male,Haematocrit (HCT),32.6,%,40 - 54
+22.png,MR. ATTAR KASAM GULAB,76,Male,MCV (Mean Corpuscular Volume),72.1,fL,80 - 100
+22.png,MR. ATTAR KASAM GULAB,76,Male,MCH (Mean Corpuscular Hb),25.8,pg,27 - 34
+22.png,MR. ATTAR KASAM GULAB,76,Male,MCHC (Mean Corpuscular Hb Concn.),35.8,gm/dl,32 - 36
+22.png,MR. ATTAR KASAM GULAB,76,Male,RDW-CV (Red Cell Distribution Width),16.2,%,11 - 16
+22.png,MR. ATTAR KASAM GULAB,76,Male,Total Leucocytes (WBC) Count,15600,/uL,4000 - 10000
+22.png,MR. ATTAR KASAM GULAB,76,Male,Absolute Neutrophils Count,14040,/c.mm,2000 - 7000
+22.png,MR. ATTAR KASAM GULAB,76,Male,Absolute Lymphocyte Count,624,/c.mm,1000 - 3000
+22.png,MR. ATTAR KASAM GULAB,76,Male,Absolute Monocyte Count,624,/c.mm,200 - 1000
+22.png,MR. ATTAR KASAM GULAB,76,Male,Absolute Eosinophil Count,312,/c.mm,20 - 500
+22.png,MR. ATTAR KASAM GULAB,76,Male,Neutrophils,90,%,40 - 70
+22.png,MR. ATTAR KASAM GULAB,76,Male,Lymphocytes,04,%,20 - 40
+22.png,MR. ATTAR KASAM GULAB,76,Male,Monocytes,04,%,2-8
+22.png,MR. ATTAR KASAM GULAB,76,Male,Eosinophils,02,%,1 - 6
+22.png,MR. ATTAR KASAM GULAB,76,Male,Basophils,00,%,0-1
+22.png,MR. ATTAR KASAM GULAB,76,Male,Platelet Count,263000,/cmm.,150000 - 450000
+22.png,MR. ATTAR KASAM GULAB,76,Male,MPV (Mean Platelet Volume),9.2,1,6 - 9.5
+22.png,MR. ATTAR KASAM GULAB,76,Male,PDW-CV (platelet distribution width),15.0,%,9 - 17
+22.png,MR. ATTAR KASAM GULAB,76,Male,PCT ( Plateletcrit),0.24,,0.10 - 0.50
+23.png,GEORGE K JAMES,28,Male,"CHOLESTEROL, SERUM",219 mg/dl,mg/dl,"200 mg/dL (Desirable)
+200-239mg/dL ( Borderline High)
+>240 mg/dL (High)
+4 weeks : 50-170 mg/dl
+Children:
+1-12 months : 60-190 mg/dl
+>1 yr : 110230 mg/dl"
+23.png,GEORGE K JAMES,28,Male,"TRIGLYCERIDE,SERUM",166 mg/dl,mg/dl,"150 mg/dL ( desirable )
+150-199 mg/dL ( Borderline high )
+200-499 mg/dL ( High )
+>500 mg/dL ( Very high )"
+23.png,GEORGE K JAMES,28,Male,HDL-CHOLESTEROL,36 mg/dl,mg/dl,35 -65 mg/dL
+23.png,GEORGE K JAMES,28,Male,LDL - CHOLESTEROL,150 mg/dl,mg/dl,"<130 mg/dL (Desirable)
+130 - 159 mg/dL (Borderline high)
+> 160 mg/dL (High Risk )"
+23.png,GEORGE K JAMES,28,Male,VLDL - CHOLESTEROL,33 mg/dl,mg/dl,Calculated.
+23.png,GEORGE K JAMES,28,Male,BILIRUBIN (T),0.4 mg/dl,mg/dl,"Up to 1.0 mg/dl
+Children:
+Neonates:
+NB:Premature
+1.0 -6.0 mg/dl(24 hours)
+6.0 -8.0 mg/dl(48 hours)
+10.015.0 mg/dl(3 - 5 days
+NB full term
+2.0 - 6.0 mg/dl (24 hours)
+6.0 - 7.0 mg/dl (48 hours)
+4.0 - 12 mg/dl (3 - 5 days)"
+23.png,GEORGE K JAMES,28,Male,BILIRUBIN DIRECT,0.1 mg/dl,mg/dl,Up to 0.2 mg/dl
+23.png,GEORGE K JAMES,28,Male,SGOT,28 U/L,U/L,Up to 37 U/L
+23.png,GEORGE K JAMES,28,Male,SGPT,65 U/L,U/L,40 U/L
+23.png,GEORGE K JAMES,28,Male,"ALKALINE PHOSPHATASE , SERUM",110 U/L,U/L,53 - 128 U/L
+23.png,GEORGE K JAMES,28,Male,"PROTEIN, SERUM",7.4 gm/dl,gm/dl,6.5 - 8.7 gm/dl
+23.png,GEORGE K JAMES,28,Male,"ALBUMIN,SERUM",4.5 gm/dl,gm/dl,3.5 - 5.3 gm/dl
+23.png,GEORGE K JAMES,28,Male,"GLOBULIN, SERUM",2.9 gm/dl,gm/dl,
+23.png,GEORGE K JAMES,28,Male,A/G RATIO,1.5,,
+24.png,Mr. SAHIL SHARMA,29,Male,"Bilirubin Total, Serum",3.83,mg/dL,0.30 - 1.20
+24.png,Mr. SAHIL SHARMA,29,Male,"Bilirubin Direct (Conj.), Serum",1.41,mg/dL,0.00 - 0.20
+24.png,Mr. SAHIL SHARMA,29,Male,"Bilirubin Indirect (Unconj.), Serum",2.42,mg/dL,0.00 - 0.90
+24.png,Mr. SAHIL SHARMA,29,Male,GGT; Gamma Glutamyl Transferase,55,U/L,≤55
+24.png,Mr. SAHIL SHARMA,29,Male,"SGOT / AST, Serum",109,U/L,>OS
+24.png,Mr. SAHIL SHARMA,29,Male,"SGPT / ALT, Serum",143,U/L,>OS
+24.png,Mr. SAHIL SHARMA,29,Male,"Alkaline Phosphotase, Serum",107,U/L,30 - 120
+24.png,Mr. SAHIL SHARMA,29,Male,"Total Protein, Serum",7.3,g/dL,6.6 - 8.3
+24.png,Mr. SAHIL SHARMA,29,Male,"Albumin, Serum",4.5,g/dL,3.5 - 5.2
+24.png,Mr. SAHIL SHARMA,29,Male,"Globulin, Serum",2.8,g/dL,2.5 - 4.5
+24.png,Mr. SAHIL SHARMA,29,Male,"Albumin/Globulin Ratio, Serum",1.6,Ratio,0.9 - 2.0
+25.png,Mrs.ARCHANA,22,Female,HAEMOGLOBIN (Hb),11.4,gm/dl,11.5-16.0
+25.png,Mrs.ARCHANA,22,Female,TOTAL LEUKOCYTE COUNT (TLC),8.1,th/cumm,4.0-10.0
+25.png,Mrs.ARCHANA,22,Female,POLYMORPHS,55,%,40-75
+25.png,Mrs.ARCHANA,22,Female,LYMPHOCYTES,35,%,20-40
+25.png,Mrs.ARCHANA,22,Female,EOSINOPHILS,04,%,1-6
+25.png,Mrs.ARCHANA,22,Female,MONOCYTES,06,%,2-10
+25.png,Mrs.ARCHANA,22,Female,BASOPHILS,00,%,0-1
+25.png,Mrs.ARCHANA,22,Female,ABSOLUTE NEUTROPHIL COUNT,"4,455",/cumm,1600 - 8000
+25.png,Mrs.ARCHANA,22,Female,ABSOLUTE LYMPHOCYTE COUNT,"2,835",/cumm,1392 - 3510
+25.png,Mrs.ARCHANA,22,Female,ABSOLUTE EOSINOPHIL COUNT,324,/cumm,40-440
+25.png,Mrs.ARCHANA,22,Female,ABSOLUTE MONOCYTE COUNT,486,/cumm,100-900
+25.png,Mrs.ARCHANA,22,Female,ABSOLUTE BASOPHIL COUNT,0,/cumm,0-100
+25.png,Mrs.ARCHANA,22,Female,RED BLOOD CELLS - RBC COUNT,4.0,millions/cmm,3.8-4.8
+25.png,Mrs.ARCHANA,22,Female,HCT,33.2,%,35-45
+25.png,Mrs.ARCHANA,22,Female,MCV,82,f1,76-96
+25.png,Mrs.ARCHANA,22,Female,MCH,28.1,pg,27-33
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,AST(SGOT),58,U/L,<32
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,ALT (SGPT),20,U/L,<33
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,Alkaline Phosphatase (ALP,1027,U/L,<141
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,Bilirubin Total,0.48,mg/dL,1.10
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,Bilirubin Direct,0.29,mg/dL,0.20
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,Bilirubin Indirect,0.19,mg/dL,1.10
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,Total Protein,6.93,g/dL,6.40-8.30
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,Albumin,3.26,g/dL,3.97-4.94
+3.png,Mrs.SUBHADHARA SRIVASTAVA,73,Female,A:G Ratio,0.89,,0.90 - 2.00
+4.png,Ms.GEETI PAUL,79,Female,Glycosylated Hemoglobin (HbA1c),6.1,%,4-5.6
+4.png,Ms.GEETI PAUL,79,Female,Estimated average glucose (eAG),128.37,TP/eu,
+5.png,Mrs. Mayur Gaikwad,21,Male,Haemoglobin,20.9,gm/dl,12 -16
+5.png,Mrs. Mayur Gaikwad,21,Male,R.B.C.Count,7.2,mil/cmm,5.5-8.2
+5.png,Mrs. Mayur Gaikwad,21,Male,Total WBC Count,10000,/cmm,4000-11000
+5.png,Mrs. Mayur Gaikwad,21,Male,Packed Cell Volume,36.6,%,35-47
+5.png,Mrs. Mayur Gaikwad,21,Male,Mean Corpuscular Volume,75.0,cu micron,76-96
+5.png,Mrs. Mayur Gaikwad,21,Male,Mean Corpuscular Hemoglobin,34.5,picograms,27 -34
+5.png,Mrs. Mayur Gaikwad,21,Male,Mean corpuscular Hb Con.,32.7,IP/8,32-36
+5.png,Mrs. Mayur Gaikwad,21,Male,Neutrophils,764,%,40-70
+5.png,Mrs. Mayur Gaikwad,21,Male,Lymphocytes,20,%,20-45
+5.png,Mrs. Mayur Gaikwad,21,Male,Eosinophil,80,%,0-6
+5.png,Mrs. Mayur Gaikwad,21,Male,Monocytes,02,%,0-8
+5.png,Mrs. Mayur Gaikwad,21,Male,Basophils,00,%,0 -1
+5.png,Mrs. Mayur Gaikwad,21,Male,Platelets,329000,/cmm,150000-450000
+6.png,VAISHALI,29,F,COMPLETEURINOGRAM,3,mL,
+6.png,VAISHALI,29,F,COLOUR,PALE YELLOW,,Pale Yellow
+6.png,VAISHALI,29,F,APPEARANCE,Cloudy,,Clear
+6.png,VAISHALI,29,F,SPECIFIC GRAVITY,1.003,,1.003-1.030
+6.png,VAISHALI,29,F,PH,6,,5 - 8
+6.png,VAISHALI,29,F,URINARY PROTEIN,ABSENT,mg/dl,Absent
+6.png,VAISHALI,29,F,URINARY GLUCOSE,ABSENT,IP/6w,Absent
+6.png,VAISHALI,29,F,URINE KETONE,ABSENT,IP/6w,Absent
+6.png,VAISHALI,29,F,URINARY BILIRUBIN,ABSENT,IP/6w,Absent
+6.png,VAISHALI,29,F,UROBILINOGEN,0.2,IP/6w,=0.2
+6.png,VAISHALI,29,F,URINE BLOOD,0.75,Cells/ul*,Absent
+6.png,VAISHALI,29,F,NITRITE,ABSENT,,Absent
+6.png,VAISHALI,29,F,MICROALBUMIN,10,mg/L,
+6.png,VAISHALI,29,F,URINARY LEUCOCYTES (PUS CELLS),6-27,Cells/ul*,Absent
+7.png,MR.Shivam Tomar,21,male,Widal Test,Positive,,NA
+7.png,MR.Shivam Tomar,21,male,Salmonella typhi O,91 : 1,,
+7.png,MR.Shivam Tomar,21,male,Salmonella typhi H,1 : 20,,
+7.png,MR.Shivam Tomar,21,male,Salmonella paratyphi AH,Less than 1 : 20,,
+7.png,MR.Shivam Tomar,21,male,Salmonella paratyphi BH,Less than 1 : 20,,
+8.png,MR.SONU SAINI,62,MALE,Haemoglobin (HB),15.10,g/dl,13-17
+8.png,MR.SONU SAINI,62,MALE,R.B.C Total,4.96,10^6/uL,4.5-5.5
+8.png,MR.SONU SAINI,62,MALE,Haematocrit (HCT),41.50,%,40-50
+8.png,MR.SONU SAINI,62,MALE,Mean Corpuscular Volume(MCV),83.60,fL,83-101
+8.png,MR.SONU SAINI,62,MALE,Mean Corpuscular Hemoglobin(MCH),30.40,pg,27-32
+8.png,MR.SONU SAINI,62,MALE,Mean Corpuscular Hemoglobin Concentration(MCHC),36.40,g/dl,31.5-34.5
+8.png,MR.SONU SAINI,62,MALE,RDW-CV,15.00,%,11-14
+8.png,MR.SONU SAINI,62,MALE,W.B.C Total,7.37,10^3/uL,4-10
+8.png,MR.SONU SAINI,62,MALE,Neutrophils..,51.30,%,55-75
+8.png,MR.SONU SAINI,62,MALE,Lymphocyte..,38.20,%,20-45
+8.png,MR.SONU SAINI,62,MALE,Eosinophils..,2.30,%,1-6
+8.png,MR.SONU SAINI,62,MALE,Monocyte..,8.20,%,1-8
+8.png,MR.SONU SAINI,62,MALE,Basophils..,0.00,%,0-1
+8.png,MR.SONU SAINI,62,MALE,Neutrolphils(Abs),3.78,10^3/uL,2.0-7.0
+8.png,MR.SONU SAINI,62,MALE,Lymphocytes (Abs),2.82,10^3/uL,0.8-4.0
+8.png,MR.SONU SAINI,62,MALE,Eosinophils (Abs),0.17,10^3/uL,0.02-0.5
+8.png,MR.SONU SAINI,62,MALE,TOTAL PLATELET COUNT,159,10^3/uL,150-410
+9.png,Mr. Pankaj Samadhiya,39,Male,Hemoglobin,14.5,gm/dl,13 -17
+9.png,Mr. Pankaj Samadhiya,39,Male,Packed Cell Volume (HcT),44.7,%,40-50
+9.png,Mr. Pankaj Samadhiya,39,Male,R.B.C. Count,5.06,mil/L,4.5 - 5.5
+9.png,Mr. Pankaj Samadhiya,39,Male,Mean Cell Volume(McV),88.3,fl,83-101
+9.png,Mr. Pankaj Samadhiya,39,Male,Mean Cell Hemoglobin( MCH),28.7,pg,27-33
+9.png,Mr. Pankaj Samadhiya,39,Male,Mean Cell Hb Conc(MCHC),32.4,%,32 -38
+9.png,Mr. Pankaj Samadhiya,39,Male,RDW (CV),12.3,%,11.60-14
+9.png,Mr. Pankaj Samadhiya,39,Male,Total w.B.C Count (Leukocytes count).,4730,/ cumm,4000-10000
+9.png,Mr. Pankaj Samadhiya,39,Male,Neutrophils,50.9,%,40-80
+9.png,Mr. Pankaj Samadhiya,39,Male,Lymphocytes,43.0,%,20 -40
+9.png,Mr. Pankaj Samadhiya,39,Male,Eosinophils,1.5,%,1-6
+9.png,Mr. Pankaj Samadhiya,39,Male,Monocytes,4.6,%,0 -10
+9.png,Mr. Pankaj Samadhiya,39,Male,Basophils,0.0,%,0-1
+9.png,Mr. Pankaj Samadhiya,39,Male,Absolute Neutrophils Count,2408,/ cumm,2000-7000
+9.png,Mr. Pankaj Samadhiya,39,Male,Absolute Lymphocytes Count,2034,/ cumm,1000-3000
+9.png,Mr. Pankaj Samadhiya,39,Male,Absolute Monocytes Count,218,/ cumm,200-1000
+9.png,Mr. Pankaj Samadhiya,39,Male,"Absolute Eosinophils Count, AEC",71,/ cumm,20-500
+9.png,Mr. Pankaj Samadhiya,39,Male,"Neutrophil-to-lymphocyte ratio, NLR.",1.18,,1-3
+9.png,Mr. Pankaj Samadhiya,39,Male,Platelet Count,116,thou/mm3,150-400
+9.png,Mr. Pankaj Samadhiya,39,Male,Mean Platelet Volume (MPV),11.1,fl,7.2-11.7
+9.png,Mr. Pankaj Samadhiya,39,Male,Platelet Distribution Width (PDw),16.5,%,9-17
