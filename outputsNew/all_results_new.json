@@ -1276,7 +1276,7 @@
         "Test Name": "GGT; Gamma Glutamyl Transferase",
         "Result": "55",
         "Unit": "U/L",
-        "Reference Range": "\u226455"
+        "Reference Range": "≤55"
       },
       {
         "Test Name": "SGOT / AST, Serum",
@@ -1968,5 +1968,131 @@
       }
     ],
     "Image Filename": "9.png"
+  },
+  {
+    "Patient Name": "Johnatan Doe",
+    "Age": 30,
+    "Gender": "Male",
+    "Tests": [
+      {
+        "Test Name": "White Blood Cell Count",
+        "Result": "7.2",
+        "Unit": "x10^9/L",
+        "Reference Range": "4 - 11"
+      },
+      {
+        "Test Name": "Red Blood Cell Count",
+        "Result": "14.5",
+        "Unit": "x10^12/L",
+        "Reference Range": "4.2 - 5.9"
+      },
+      {
+        "Test Name": "Hemoglobin",
+        "Result": "13.5",
+        "Unit": "7p/",
+        "Reference Range": "13.2 - 16.6"
+      },
+      {
+        "Test Name": "Hematocrit",
+        "Result": "40.1",
+        "Unit": "%",
+        "Reference Range": "38.3 - 48.6"
+      },
+      {
+        "Test Name": "Platelet Count",
+        "Result": "250",
+        "Unit": "x10^9/L",
+        "Reference Range": "150 - 450"
+      },
+      {
+        "Test Name": "Glucose",
+        "Result": "90",
+        "Unit": "mg/dL",
+        "Reference Range": "70 - 99"
+      },
+      {
+        "Test Name": "Creatinine",
+        "Result": "0.9",
+        "Unit": "mg/dL",
+        "Reference Range": "0.6 - 1.2"
+      },
+      {
+        "Test Name": "Urea",
+        "Result": "29",
+        "Unit": "mg/dL",
+        "Reference Range": "15-50"
+      },
+      {
+        "Test Name": "Cholesterol",
+        "Result": "185",
+        "Unit": "mg/dL",
+        "Reference Range": "0 - 200"
+      },
+      {
+        "Test Name": "Alanine Aminotransferase (ALT)",
+        "Result": "25",
+        "Unit": "U/L",
+        "Reference Range": "7 - 56"
+      },
+      {
+        "Test Name": "Aspartate Aminotransferase (AST)",
+        "Result": "30",
+        "Unit": "U/L",
+        "Reference Range": "8-48"
+      },
+      {
+        "Test Name": "Alkaline Phosphatase (ALP)",
+        "Result": "70",
+        "Unit": "U/L",
+        "Reference Range": "40 - 129"
+      },
+      {
+        "Test Name": "Bilirubin",
+        "Result": "1.2",
+        "Unit": "mg/dL",
+        "Reference Range": "0.3 - 1.9"
+      },
+      {
+        "Test Name": "Albumin",
+        "Result": "4.5",
+        "Unit": "g/dL",
+        "Reference Range": "3.5 - 5.5"
+      },
+      {
+        "Test Name": "Thyroid Stimulating Hormone",
+        "Result": "2.1",
+        "Unit": "IU/mL",
+        "Reference Range": "0.5 - 4.5"
+      },
+      {
+        "Test Name": "Free Thyroxine (FT4)",
+        "Result": "1.2",
+        "Unit": "1p/8u",
+        "Reference Range": "0.9 - 1.7"
+      }
+    ],
+    "id": "bebb5e97-b62f-4365-a38d-475d67e880ef",
+    "timestamp": "2025-06-29T01:16:51.726822"
+  },
+  {
+    "Patient Name": "Sashikanta Nayak",
+    "Age": 36,
+    "Gender": "M",
+    "Tests": [
+      {
+        "Test Name": "HbA1c",
+        "Result": "7.2",
+        "Unit": "%",
+        "Reference Range": "Below 5.7% : Normal\nBelow 6.5% : Good Control\n5.7% - 6.4% : Prediabetic\n6.5% - 7% : Fair Control.\n>=6.5% : Diabetic\n7.0% - 8% : Unsatisfactory Control\n>8% : Poor Control"
+      },
+      {
+        "Test Name": "AVERAGE BLOOD GLUCOSE (ABG)",
+        "Result": "160",
+        "Unit": "Ip/6w",
+        "Reference Range": "90 - 120 mg/dl : Good Control\n121 - 150 mg/dl : Fair Control.\n151 - 180 mg/dl : Unsatisfactory Control\n> 180 mg/dl : Poor Control"
+      }
+    ],
+    "id": "e6d19e02-ac01-431b-84d6-dc2aafa200e7",
+    "timestamp": "2025-06-30T18:13:08.167014"
   }
 ]
